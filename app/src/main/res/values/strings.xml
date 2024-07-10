@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MySmartHomeHC</string>
+    <string name="THING_SMART_APPKEY">3d3m9upqec9xpc8d3ve5</string>
+    <string name="THING_SMART_SECRET">q9gtdcepy8uvprxhsu8e53ed9tr8xgst</string>
+</resources>
